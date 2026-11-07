@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+shapely
+pyproj
+ezdxf
+deep-translator
+matplotlib
+pandas
+requests
+numpy
