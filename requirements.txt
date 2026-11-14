@@ -1,9 +1,11 @@
 streamlit
-pandas
 numpy
-ezdxf
-matplotlib
+pandas
 requests
+matplotlib
+ezdxf
 simplekml
 reportlab
 shapely
+openpyxl
+ 
